@@ -1,3 +1,4 @@
+--qgis+postgress
 --create database
 CREATE DATABASE dbe
 
